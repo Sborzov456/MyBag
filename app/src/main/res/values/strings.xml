@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">korziiina</string>
+    <string name="google_map_key" />
+    <string name="google_map_key1">AIzaSyCE2T8L2DZJhrg4mgE9euqPGT1OST3F0bE</string>
+    <string name="google_map_key2">AIzaSyBX4GaE_PTKfxI6rZ4JzkquhooCeipe-g8</string>
+    <string name="google_map_key3">AIzaSyDJzEl8VKvPdqjItVwYUKCrh6r8-3d0v1k</string>
+    <string name="google_map_key4">AIzaSyDJzEl8VKvPdqjItVwYUKCrh6r8-3d0v1k</string>
+</resources>
